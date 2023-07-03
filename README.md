@@ -1,10 +1,44 @@
-# D&D Search Engine
+# DnD Search Engine
 
-This project is a search engine for Dungeons & Dragons (D&D) that allows you to search for information about monsters, spells, items, and weapons. It provides a user-friendly interface to quickly find details about various elements in the D&D universe.
+![DnD Search Engine Logo](https://example.com/logo.png)
+
+A search engine for Dungeons & Dragons (DnD) information, including monsters, spells, and items.
+
+## Features
+
+- Search for monsters and get detailed information about their stats, abilities, and more.
+- Explore a vast collection of spells with descriptions, casting requirements, and levels.
+- Look up various items and their properties, such as weapons, armor, and magical artifacts.
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/your-username/dnd-search-engine.git`
+2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
 
-1. Install the necessary dependencies:
+1. Run the application: `python dnd_search_engine.py`
+2. Enter your search query in the designated field.
+3. Click the search button to retrieve the results.
+4. Select an item from the search results to view detailed information.
 
-   ```shell
-   pip install dnd-search-engine
+## Technologies Used
+
+- Python
+- PySimpleGUI
+- Requests
+
+## Screenshots
+
+![Search Page](screenshots/search_page.png)
+
+![Monster Details](screenshots/monster_details.png)
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
