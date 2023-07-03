@@ -12,7 +12,7 @@ A search engine for Dungeons & Dragons (DnD) information, including monsters, sp
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/dnd-search-engine.git`
+1. Clone the repository: `git clone https://github.com/Tanakiin/DnD-Guide.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
