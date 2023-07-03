@@ -17,7 +17,7 @@ A search engine for Dungeons & Dragons (DnD) information, including monsters, sp
 
 ## Usage
 
-1. Run the application: `python dndapi.py`
+1. Run the application: `python dndguide.py`
 2. Enter your search query in the designated field.
 3. Click the search button to retrieve the results.
 4. Select an item from the search results to view detailed information.
