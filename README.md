@@ -28,11 +28,11 @@ A search engine for Dungeons & Dragons (DnD) information, including monsters, sp
 
 ## Screenshots
 
-![Search Page](https://imgur.com/xiDRJ0n)
+![Search Page](screenshots/search.png)
 
-![Results Page](https://imgur.com/rgXSrPc)
+![Results Page](screenshots/results.png)
 
-![Monster Details](https://imgur.com/lGoEQlx)
+![Monster Details](screenshots.result.png)
 
 ## Contributing
 
