@@ -32,7 +32,7 @@ A search engine for Dungeons & Dragons (DnD) information, including monsters, sp
 
 ![Results Page](screenshots/results.png)
 
-![Monster Details](screenshots.result.png)
+![Monster Details](screenshots/result.png)
 
 ## Contributing
 
