@@ -34,11 +34,4 @@ A search engine for Dungeons & Dragons (DnD) information, including monsters, sp
 
 ![Monster Details](screenshots/result.png)
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
