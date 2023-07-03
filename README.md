@@ -1,7 +1,5 @@
 # DnD Search Engine
 
-![DnD Search Engine Logo](https://example.com/logo.png)
-
 A search engine for Dungeons & Dragons (DnD) information, including monsters, spells, and items.
 
 ## Features
@@ -30,9 +28,11 @@ A search engine for Dungeons & Dragons (DnD) information, including monsters, sp
 
 ## Screenshots
 
-![Search Page](screenshots/search_page.png)
+![Search Page](https://imgur.com/xiDRJ0n)
 
-![Monster Details](screenshots/monster_details.png)
+![Results Page](https://imgur.com/rgXSrPc)
+
+![Monster Details](https://imgur.com/lGoEQlx)
 
 ## Contributing
 
